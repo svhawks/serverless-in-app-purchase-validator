@@ -1,6 +1,6 @@
 {
   "name": "serverless-in-app-purchase-validator",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Serverless Project and its Serverless Plugin dependencies.",
   "author": "Muhammet <dilekmuhammet@gmail.com> (https://github.com/muhammet)",
   "license": "MIT",
