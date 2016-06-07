@@ -1,0 +1,16 @@
+{
+  "name": "serverless-in-app-purchase-validator",
+  "version": "0.0.1",
+  "description": "A Serverless Project and its Serverless Plugin dependencies.",
+  "author": "me",
+  "license": "MIT",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/"
+  },
+  "dependencies": {    
+    "in-app-purchase": "^1.1.5",
+    "serverless-optimizer-plugin": "^2.5.1"
+  }
+}
