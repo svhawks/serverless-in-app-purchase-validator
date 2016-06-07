@@ -2,7 +2,6 @@
   "name": "serverless-in-app-purchase-validator",
   "custom": {},
   "plugins": [
-    "serverless-optimizer-plugin",
-    "serverless-runtime-babel"
+    "serverless-optimizer-plugin"  
   ]
 }
